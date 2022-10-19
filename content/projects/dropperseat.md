@@ -1,7 +1,7 @@
 ---
 title: "Dropper Seat Post Design Project"
 date: 2022-10-16T21:01:06-04:00
-draft: true
+draft: false
 type: "page"
 ---
 

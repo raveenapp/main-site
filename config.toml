@@ -11,10 +11,9 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    # Unique identifier for a menu item
     identifier = "about"
-    url = "/about/"
     name = "About"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]

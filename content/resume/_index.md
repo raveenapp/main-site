@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 date: 2022-10-15T22:30:01-04:00
-draft: true
+draft: false
 type: "page"
 ---
 

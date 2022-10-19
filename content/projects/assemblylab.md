@@ -1,7 +1,7 @@
 ---
 title: "Assembly Lab"
 date: 2022-10-16T21:00:49-04:00
-draft: true
+draft: false
 type: "page"
 ---
 
