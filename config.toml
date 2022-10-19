@@ -52,10 +52,10 @@ enableRobotsTXT = true
 
 [params]
   # URL for the avatar on homepage
-  avatarURL = ""
+  avatarURL = "/home/avatar.png"
 
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
-  avatarSize = ""
+  avatarSize = "size-l"
 
   # Description to display on homepage
   description = "My little piece of the internet"
@@ -76,4 +76,4 @@ enableRobotsTXT = true
   showPostsOnHomePage = "recent"
 
   # Footer text
-  footer = "The Marauders"
+  footer = ""
