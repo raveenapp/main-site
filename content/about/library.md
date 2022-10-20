@@ -22,7 +22,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Ousama Ranking
 - Vinland Saga Season 1 
 - Monster (NW)
-
+- Chainsaw Man (NW)
 ## Movies
 - My Hero Academia: World Hero's Mission
 - Jujistu Kaison: Movie 0

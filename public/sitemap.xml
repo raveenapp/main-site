@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.raveen.ca/gallery/perugallery/</loc>
+    <lastmod>2022-10-20T00:23:26-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/</loc>
+    <lastmod>2022-10-20T00:23:26-04:00</lastmod>
+  </url><url>
     <loc>https://www.raveen.ca/posts/first_post/</loc>
     <lastmod>2022-10-18T21:49:53-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/posts/</loc>
-    <lastmod>2022-10-18T21:49:53-04:00</lastmod>
-  </url><url>
-    <loc>https://www.raveen.ca/</loc>
     <lastmod>2022-10-18T21:49:53-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/projects/gripper/</loc>

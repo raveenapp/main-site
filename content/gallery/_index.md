@@ -5,10 +5,20 @@ draft: false
 type: "page"
 ---
 
+These are some of my favourite pictures from over the years. I seperated trips in a seperate page:
+
+- [Peru - May 2022]({{< ref "gallery/perugallery">}})
+
 {{< load-photoswipe >}}
 
 {{< gallery >}}
-    {{< figure link="/album/2020 - 2.jpg" caption=" October 2020 - A late Fall hiking trip at Algonquin" >}}
+    {{< figure link="/album/2022 - 6.jpg" caption="June 2022 - Looking at Salkantay Mountain" >}}  
+    {{< figure link="/album/2022 - 5.jpg" caption="June 2022 - At Lake Humantay" >}}  
+    {{< figure link="/album/2022 - 4.jpg" caption="May 2022 - At Rainbow Mountain" >}}  
+    {{< figure link="/album/2022 - 3.jpg" caption="May 2022 - On a dune buggy in Huachachina" >}}
+    {{< figure link="/album/2022 - 2.jpg" caption="September 2022 - Kipling with Friends" >}}    
+    {{< figure link="/album/2022 - 1.jpg" caption="September 2022 - On Kipling!" >}}
+    {{< figure link="/album/2020 - 2.jpg" caption="October 2020 - A late Fall hiking trip at Algonquin" >}}
     {{< figure link="/album/2020 - 1.jpg" caption="July 2020 - My first portage trip at Algonquin" >}}
     {{< figure link="/album/2019 - 6.jpg" caption="December 2019 - Ugly Christmas sweater day at work" >}}
     {{< figure link="/album/2019 - 5.jpg" caption="December 2019 - Pranking my coworker by wrapping his desk during a work trip " >}}
