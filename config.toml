@@ -2,7 +2,7 @@ baseURL = "https://www.raveen.ca"
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "Raveen.ca"
+title = "Welcome!"
 
 theme = "gokarna"
 

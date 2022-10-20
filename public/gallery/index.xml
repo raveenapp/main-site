@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gallery on Raveen.ca</title>
+    <title>Gallery on Welcome!</title>
     <link>https://www.raveen.ca/gallery/</link>
-    <description>Recent content in Gallery on Raveen.ca</description>
+    <description>Recent content in Gallery on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 16 Oct 2022 20:24:03 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/gallery/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,6 @@
       <guid>https://www.raveen.ca/gallery/perugallery/</guid>
       <description>Cusco - 4
 Cusco - 3
-Rainbow Mountain - 4
 Rainbow Mountain - 4
 Rainbow Mountain - 3
 Rainbow Mountain - 2
@@ -31,7 +30,8 @@ Colca Canyon - 4
 Colca Canyon - 3
 Colca Canyon - 2
 Colca Canyon - 1
-Arequipa - 2</description>
+Arequipa - 2
+Arequipa - 1</description>
     </item>
     
   </channel>

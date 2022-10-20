@@ -11,16 +11,16 @@ type: "page"
 
 ## Peripherals
 - Mouse: MX Master 3 
-- Keyboard
+- Keyboard:
 - External Drives
 
 ## Phone
 - Phone: IPhone 13 Pro (2021)
 
-## Headphones
+## Audio
 - EDC: AirPod Gen 2
-- Sony WH1000-xm4
-- Steel Series Arctic 1
+- ANC: Sony WH1000-xm4
+- Gaming: Steel Series Arctic 1
 
 ## Gaming
 - Consoles: PS4, 3DS

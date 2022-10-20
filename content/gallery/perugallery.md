@@ -9,8 +9,7 @@ type: page
 
 {{< gallery >}} 
     {{< figure link="/Peru/IMG_2327.jpg" caption="Cusco - 4" >}}
-    {{< figure link="/Peru/IMG_2318.jpg" caption="Cusco - 3" >}}    
-    {{< figure link="/Peru/IMG_2232.jpg" caption="Rainbow Mountain - 4" >}}  
+    {{< figure link="/Peru/IMG_2318.jpg" caption="Cusco - 3" >}}      
     {{< figure link="/Peru/IMG_2232.jpg" caption="Rainbow Mountain - 4" >}}  
     {{< figure link="/Peru/IMG_2070.jpg" caption="Rainbow Mountain - 3" >}}  
     {{< figure link="/Peru/IMG_2041.jpg" caption="Rainbow Mountain - 2" >}}  
