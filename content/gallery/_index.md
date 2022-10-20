@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 
-These are some of my favourite pictures from over the years. I seperated trips in a seperate page:
+These are some of my favourite pictures from over the years. I seperated trips in a different pages:
 
 - [Peru - May 2022]({{< ref "gallery/perugallery">}})
 
