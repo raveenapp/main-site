@@ -1,5 +1,5 @@
 ---
-title: "Website"
+title: "This Website"
 date: 2022-10-16T21:00:27-04:00
 draft: false
 type: "page"
@@ -11,7 +11,7 @@ I will be using this page a working post for my website, I'll mention updates an
 Completed: 18 October 2022
 
 I've always liked the idea of having my own little piece of the internet (hence why its the tag line on home page). But I didn't really commit to having my own website until I watched a CollegeInfoGeek video on it in 2017 
-9https://youtu.be/GTGP90fIXO8). Basically, the video explained that as a student or a young professional, you can make yourself standout by having your own website. You can use the website as a portfolio to show your experiences using multimedia instead of just words on a resume. So in the winter of 2017, I decided I would make my own. I acquired Raveen.ca and made my first Wordpress website. I found a theme that worked and started to make pages and posts. I wish I kept archives of my previous versions of my website but hindsight is 20/20. 
+(https://youtu.be/GTGP90fIXO8). Basically, the video explained that as a student or a young professional, you can make yourself standout by having your own website. You can use the website as a portfolio to show your experiences using multimedia instead of just words on a resume. So in the winter of 2017, I decided I would make my own. I acquired Raveen.ca and made my first Wordpress website. I found a theme that worked and started to make pages and posts. I wish I kept archives of my previous versions of my website but hindsight is 20/20. 
 
 Right off the bat, I saw how hard it was to customize webpages on Wordpress. I could have totally been using it wrong, but it felt like you were restricted to only the pages the theme offered and if you had a new idea for a page, implementing it was cumbersome. However, since the winter semester was starting soon, I made it work the best I could and move on.
 

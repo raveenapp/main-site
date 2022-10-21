@@ -9,7 +9,7 @@ type: "page"
 ### Bachelors of Engineering & Management, Mechanical
 McMaster University // Hamilton, Ontario // Sep 2016 - Apr 2022
 
-- *Completed the* Mechanical engineering degree with a focus in thermofluids and product design. 
+- Completed Mechanical engineering degree with a focus in thermofluids and product design. 
 - The management program combined an engineering degree with core cores from a business degree, including, accounting, finance, HR, and marketing. 
 
 ## Work Experience
