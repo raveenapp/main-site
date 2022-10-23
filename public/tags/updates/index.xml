@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcome!</title>
-    <link>https://www.raveen.ca/posts/</link>
-    <description>Recent content in Posts on Welcome!</description>
+    <title>updates on Welcome!</title>
+    <link>https://www.raveen.ca/tags/updates/</link>
+    <description>Recent content in updates on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Oct 2022 15:33:45 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 15:33:45 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/tags/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s the point of this website?</title>
       <link>https://www.raveen.ca/posts/this_website/</link>
@@ -15,24 +15,6 @@
       <guid>https://www.raveen.ca/posts/this_website/</guid>
       <description>I&amp;rsquo;ve explained the history of the development of this website and I&amp;rsquo;ve mentioned on my about page that this website is a &amp;ldquo;mixture of a portfolio and a blog site&amp;rdquo;. I&amp;rsquo;m going to take this post to explain in more detail my motivations for this site.
 There was once what I like to call the &amp;ldquo;golden era of the internet&amp;rdquo;, which deserves a post of its own. But basically, from like the 90s to the late 2000s, everyone had their own website or forum to share their ideas and it was very decentralized.</description>
-    </item>
-    
-    <item>
-      <title>First_post</title>
-      <link>https://www.raveen.ca/posts/first_post/</link>
-      <pubDate>Tue, 18 Oct 2022 21:49:53 -0400</pubDate>
-      
-      <guid>https://www.raveen.ca/posts/first_post/</guid>
-      <description>This is a test post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.raveen.ca/posts/test_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.raveen.ca/posts/test_post/</guid>
-      <description></description>
     </item>
     
   </channel>

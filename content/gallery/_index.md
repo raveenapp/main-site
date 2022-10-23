@@ -12,10 +12,12 @@ These are some of my favourite pictures from over the years. I seperated trips i
 {{< load-photoswipe >}}
 
 {{< gallery >}}
-    {{< figure link="/album/2022 - 6.jpg" caption="June 2022 - Looking at Salkantay Mountain" >}}  
-    {{< figure link="/album/2022 - 5.jpg" caption="June 2022 - At Lake Humantay" >}}  
-    {{< figure link="/album/2022 - 4.jpg" caption="May 2022 - At Rainbow Mountain" >}}  
-    {{< figure link="/album/2022 - 3.jpg" caption="May 2022 - On a dune buggy in Huachachina" >}}
+    {{< figure link="/album/2022 - 8.JPG" caption="August 2022 - Morning coffee during a weekend away" >}}
+    {{< figure link="/album/2022 - 7.jpg" caption="June 2022 - Looking at Salkantay Mountain" >}}  
+    {{< figure link="/album/2022 - 6.jpg" caption="June 2022 - At Lake Humantay" >}}  
+    {{< figure link="/album/2022 - 5.jpg" caption="May 2022 - At Rainbow Mountain" >}}  
+    {{< figure link="/album/2022 - 4.jpg" caption="May 2022 - On a dune buggy in Huachachina" >}}
+    {{< figure link="/album/2022 - 3.jpg" caption="May 2022 - Pranking the groom during the dress reveal by subbing for the bride" >}}
     {{< figure link="/album/2022 - 2.jpg" caption="September 2022 - Kipling with Friends" >}}    
     {{< figure link="/album/2022 - 1.jpg" caption="September 2022 - On Kipling!" >}}
     {{< figure link="/album/2020 - 2.jpg" caption="October 2020 - A late Fall hiking trip at Algonquin" >}}

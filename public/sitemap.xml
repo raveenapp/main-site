@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.raveen.ca/tags/life/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/posts/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/updates/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/posts/this_website/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
     <loc>https://www.raveen.ca/gallery/perugallery/</loc>
     <lastmod>2022-10-20T00:23:26-04:00</lastmod>
   </url><url>
-    <loc>https://www.raveen.ca/</loc>
-    <lastmod>2022-10-20T00:23:26-04:00</lastmod>
-  </url><url>
     <loc>https://www.raveen.ca/posts/first_post/</loc>
-    <lastmod>2022-10-18T21:49:53-04:00</lastmod>
-  </url><url>
-    <loc>https://www.raveen.ca/posts/</loc>
     <lastmod>2022-10-18T21:49:53-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/projects/gripper/</loc>
@@ -56,8 +68,8 @@
     <loc>https://www.raveen.ca/about/</loc>
     <lastmod>2022-10-15T20:28:33-04:00</lastmod>
   </url><url>
-    <loc>https://www.raveen.ca/categories/</loc>
+    <loc>https://www.raveen.ca/posts/test_post/</loc>
   </url><url>
-    <loc>https://www.raveen.ca/tags/</loc>
+    <loc>https://www.raveen.ca/categories/</loc>
   </url>
 </urlset>
