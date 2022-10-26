@@ -17,18 +17,18 @@
     
 
     
-    <title>Gripper</title>
+    <title>XYZ Gripper Robot</title>
     <meta name="description" content="My little piece of the internet">
     <meta name="keywords" content='blog, gokarna, hugo'>
 
     <meta property="og:url" content="https://www.raveen.ca/projects/gripper/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Gripper">
+    <meta property="og:title" content="XYZ Gripper Robot">
     <meta property="og:description" content="My little piece of the internet">
     <meta property="og:image" content="/home/avatar.png">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Gripper">
+    <meta name="twitter:title" content="XYZ Gripper Robot">
     <meta name="twitter:description" content="My little piece of the internet">
     <meta property="twitter:domain" content="https://www.raveen.ca/projects/gripper/">
     <meta property="twitter:url" content="https://www.raveen.ca/projects/gripper/">
@@ -153,12 +153,28 @@
     <div class="post container">
 
     <div class="post-header-section">
-        <h1>Gripper</h1>
+        <h1>XYZ Gripper Robot</h1>
     </div>
 
     <div class="post-content">
         <p>
-            
+            <p>Completed: April 2022</p>
+<p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/V6Dm7wGGrKQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/-Vy11onMYCo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<p>This was my final year capstone project. The client for this project was a material sciences professor. For his research, his group completes many compressions tests of 3D printed components, so our project revolved around removing tedious parts of his project. There were different aspects of the testing process that we could have focused on, but we decided to make a robot that automates the queueing, loading and removal of test samples.</p>
+<p>After following the engineering design process, the final result can be seen in the video above. The XYZ Gripper robot, moves between 12 positions in queueing area, grabs a test sample and then moves it onto the test platform. The gripper has a force sensor so it is able to detect any sample between 25 mm and 75 mm. The robot moves in the x, y direction using a belt and stepper motor and the z direction is driven by a lead screw.</p>
+<p><img src="/projects/gripperdrawing.png" alt="Gripper Drawing" title="Gripper Drawing"></p>
+<p>I was tasked with designing the gripper system for the project. First, I looked at potential gripper designs that were relevant to the problem. I narrowed it down to a rack and pinion gripper due to form factor and simplicity of the mechanism. From there, I calculated the force required by the fingers to lift a sample and then found the required torque the motor would need to provide. Then a motor was selected based on its stall torque and its ability to have force detection. After the motor, I began to cad the gripper, focusing on assembly. I decided to 3D printer the gripper because it allowed for easy manufacturing of custom geometries for the gears, rack and housing.</p>
+<p>This was the largest project I&rsquo;ve been a part of and I think the most satisfying part was putting all the components together and seeing the robot work as a whole. There was some minor trouble shooting initially but because of our preperation, the robot was able to mostly work right off the bat.</p>
+
         </p>
     </div>
 </div>

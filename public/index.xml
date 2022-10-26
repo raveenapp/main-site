@@ -53,12 +53,13 @@ Cusco - 4</description>
     </item>
     
     <item>
-      <title>Gripper</title>
+      <title>XYZ Gripper Robot</title>
       <link>https://www.raveen.ca/projects/gripper/</link>
       <pubDate>Mon, 17 Oct 2022 23:57:37 -0400</pubDate>
       
       <guid>https://www.raveen.ca/projects/gripper/</guid>
-      <description></description>
+      <description>Completed: April 2022
+This was my final year capstone project. The client for this project was a material sciences professor. For his research, his group completes many compressions tests of 3D printed components, so our project revolved around removing tedious parts of his project. There were different aspects of the testing process that we could have focused on, but we decided to make a robot that automates the queueing, loading and removal of test samples.</description>
     </item>
     
     <item>
