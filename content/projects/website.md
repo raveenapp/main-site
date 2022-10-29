@@ -7,8 +7,10 @@ type: "page"
 
 I will be using this page a working post for my website, I'll mention updates and future plans with the website here.
 
+This is the repo for the site (https://github.com/raveenapp/main-site.git)
+
 ## History of This Website
-Completed: 18 October 2022
+Completed: October 2022
 
 I've always liked the idea of having my own little piece of the internet (hence why its the tag line on home page). But I didn't really commit to having my own website until I watched a CollegeInfoGeek video on it in 2017 
 (https://youtu.be/GTGP90fIXO8). Basically, the video explained that as a student or a young professional, you can make yourself standout by having your own website. You can use the website as a portfolio to show your experiences using multimedia instead of just words on a resume. So in the winter of 2017, I decided I would make my own. I acquired Raveen.ca and made my first Wordpress website. I found a theme that worked and started to make pages and posts. I wish I kept archives of my previous versions of my website but hindsight is 20/20. 
