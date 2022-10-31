@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Oct 2022 15:33:45 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Oct 2022 14:02:32 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>November 2022 - Update</title>
+      <link>https://www.raveen.ca/posts/2022novupdate/</link>
+      <pubDate>Mon, 31 Oct 2022 14:02:32 -0400</pubDate>
+      
+      <guid>https://www.raveen.ca/posts/2022novupdate/</guid>
+      <description>I would like to start making post reflecting on the upcoming month. Here, I&amp;rsquo;d plan my goals for the month, and then at the end of the month, I&amp;rsquo;d re-evaluate my progress. This way I can see if goals I set are realistic and achieveable or do I need to change my expectations.
+Fitness:
+Keep current workout schedule Learning:
+Pickup Python Course and do a little every night Hobbies:
+Complete PSTAR exam to start process to regain flying currency Arts:</description>
+    </item>
+    
     <item>
       <title>What&#39;s the point of this website?</title>
       <link>https://www.raveen.ca/posts/this_website/</link>
@@ -24,15 +37,6 @@ There was once what I like to call the &amp;ldquo;golden era of the internet&amp
       
       <guid>https://www.raveen.ca/posts/first_post/</guid>
       <description>This is a test post.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.raveen.ca/posts/test_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.raveen.ca/posts/test_post/</guid>
-      <description></description>
     </item>
     
   </channel>
