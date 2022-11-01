@@ -6,7 +6,26 @@
     <description>Recent content on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Oct 2022 00:23:26 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 10:24:04 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re-learning Python</title>
+      <link>https://www.raveen.ca/projects/python/</link>
+      <pubDate>Tue, 01 Nov 2022 10:24:04 -0400</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/python/</guid>
+      <description>The Goal The goal of this project is to get better with Python. I learned Python in my first year programming class and used a little bit over the years, but I would hesitate to say I have a &amp;ldquo;functional&amp;rdquo; knowledge of the language. My goal with this project is to develop a better foundation so I can apply it better. To start I am going to be working through ForrestKnight&amp;rsquo;s &amp;ldquo;Open Source Python Course&amp;rdquo; (https://github.</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the point of this website?</title>
+      <link>https://www.raveen.ca/posts/this_website/</link>
+      <pubDate>Fri, 21 Oct 2022 15:33:45 -0400</pubDate>
+      
+      <guid>https://www.raveen.ca/posts/this_website/</guid>
+      <description>I&amp;rsquo;ve explained the history of the development of this website and I&amp;rsquo;ve mentioned on my about page that this website is a &amp;ldquo;mixture of a portfolio and a blog site&amp;rdquo;. I&amp;rsquo;m going to take this post to explain in more detail my motivations for this site.
+There was once what I like to call the &amp;ldquo;golden era of the internet&amp;rdquo;, which deserves a post of its own. But basically, from like the 90s to the late 2000s, everyone had their own website or forum to share their ideas and it was very decentralized.</description>
+    </item>
+    
     <item>
       <title>Peru - May 2022</title>
       <link>https://www.raveen.ca/gallery/perugallery/</link>
