@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+<<<<<<< HEAD
     <loc>https://www.raveen.ca/tags/life/</loc>
     <lastmod>2022-10-31T14:02:32-04:00</lastmod>
   </url><url>
@@ -19,6 +20,25 @@
   </url><url>
     <loc>https://www.raveen.ca/</loc>
     <lastmod>2022-10-31T14:02:32-04:00</lastmod>
+=======
+    <loc>https://www.raveen.ca/projects/python/</loc>
+    <lastmod>2022-11-01T10:24:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/</loc>
+    <lastmod>2022-11-01T10:24:04-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/life/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/posts/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/updates/</loc>
+    <lastmod>2022-10-21T15:33:45-04:00</lastmod>
+>>>>>>> test-branch
   </url><url>
     <loc>https://www.raveen.ca/posts/this_website/</loc>
     <lastmod>2022-10-21T15:33:45-04:00</lastmod>
