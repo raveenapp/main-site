@@ -6,8 +6,17 @@
     <description>Recent content on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-<<<<<<< HEAD
-    <lastBuildDate>Mon, 31 Oct 2022 14:02:32 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 10:24:04 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Re-learning Python</title>
+      <link>https://www.raveen.ca/projects/python/</link>
+      <pubDate>Tue, 01 Nov 2022 10:24:04 -0400</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/python/</guid>
+      <description>The Goal The goal of this project is to get better with Python. I learned Python in my first year programming class and used a little bit over the years, but I would hesitate to say I have a &amp;ldquo;functional&amp;rdquo; knowledge of the language. My goal with this project is to develop a better foundation so I can apply it better.
+1.0 Python Docs I am going to start with working through the Python docs (https://docs.</description>
+    </item>
+    
     <item>
       <title>November 2022 - Update</title>
       <link>https://www.raveen.ca/posts/2022novupdate/</link>
@@ -19,16 +28,6 @@ Fitness:
 Keep current workout schedule Learning:
 Pickup Python Course and do a little every night Hobbies:
 Complete PSTAR exam to start process to regain flying currency Arts:</description>
-=======
-    <lastBuildDate>Tue, 01 Nov 2022 10:24:04 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Re-learning Python</title>
-      <link>https://www.raveen.ca/projects/python/</link>
-      <pubDate>Tue, 01 Nov 2022 10:24:04 -0400</pubDate>
-      
-      <guid>https://www.raveen.ca/projects/python/</guid>
-      <description>The Goal The goal of this project is to get better with Python. I learned Python in my first year programming class and used a little bit over the years, but I would hesitate to say I have a &amp;ldquo;functional&amp;rdquo; knowledge of the language. My goal with this project is to develop a better foundation so I can apply it better. To start I am going to be working through ForrestKnight&amp;rsquo;s &amp;ldquo;Open Source Python Course&amp;rdquo; (https://github.</description>
->>>>>>> test-branch
     </item>
     
     <item>

@@ -8,20 +8,17 @@
     <language>en</language>
     <lastBuildDate>Sat, 15 Oct 2022 22:30:17 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-<<<<<<< HEAD
-      <title>XYZ Gripper Robot</title>
-=======
       <title>Re-learning Python</title>
       <link>https://www.raveen.ca/projects/python/</link>
       <pubDate>Tue, 01 Nov 2022 10:24:04 -0400</pubDate>
       
       <guid>https://www.raveen.ca/projects/python/</guid>
-      <description>The Goal The goal of this project is to get better with Python. I learned Python in my first year programming class and used a little bit over the years, but I would hesitate to say I have a &amp;ldquo;functional&amp;rdquo; knowledge of the language. My goal with this project is to develop a better foundation so I can apply it better. To start I am going to be working through ForrestKnight&amp;rsquo;s &amp;ldquo;Open Source Python Course&amp;rdquo; (https://github.</description>
+      <description>The Goal The goal of this project is to get better with Python. I learned Python in my first year programming class and used a little bit over the years, but I would hesitate to say I have a &amp;ldquo;functional&amp;rdquo; knowledge of the language. My goal with this project is to develop a better foundation so I can apply it better.
+1.0 Python Docs I am going to start with working through the Python docs (https://docs.</description>
     </item>
     
     <item>
-      <title>Gripper</title>
->>>>>>> test-branch
+      <title>XYZ Gripper Robot</title>
       <link>https://www.raveen.ca/projects/gripper/</link>
       <pubDate>Mon, 17 Oct 2022 23:57:37 -0400</pubDate>
       
