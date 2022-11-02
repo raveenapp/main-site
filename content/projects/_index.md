@@ -6,7 +6,7 @@ type: "page"
 ---
 
 Here are a list of my on-going projects:
- - [Re-learing Python]({{< ref "projects/python.md">}})
+ - [Re-learning Python]({{< ref "projects/python.md">}})
  - [This Website]({{< ref "projects/website.md">}})
  - [Mechancial Pokeball]({{< ref "projects/pokeball.md">}})
 
