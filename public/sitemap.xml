@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.raveen.ca/projects/python/</loc>
-    <lastmod>2022-11-01T10:24:04-04:00</lastmod>
+    <loc>https://www.raveen.ca/posts/insignificance/</loc>
+    <lastmod>2022-11-06T20:40:03-05:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/philosophy/</loc>
+    <lastmod>2022-11-06T20:40:03-05:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/posts/</loc>
+    <lastmod>2022-11-06T20:40:03-05:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/tags/</loc>
+    <lastmod>2022-11-06T20:40:03-05:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/</loc>
+    <lastmod>2022-11-06T20:40:03-05:00</lastmod>
+  </url><url>
+    <loc>https://www.raveen.ca/projects/python/</loc>
     <lastmod>2022-11-01T10:24:04-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/tags/life/</loc>
     <lastmod>2022-10-31T14:02:32-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/posts/2022novupdate/</loc>
-    <lastmod>2022-10-31T14:02:32-04:00</lastmod>
-  </url><url>
-    <loc>https://www.raveen.ca/posts/</loc>
-    <lastmod>2022-10-31T14:02:32-04:00</lastmod>
-  </url><url>
-    <loc>https://www.raveen.ca/tags/</loc>
     <lastmod>2022-10-31T14:02:32-04:00</lastmod>
   </url><url>
     <loc>https://www.raveen.ca/tags/updates/</loc>
