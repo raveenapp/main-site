@@ -32,5 +32,4 @@ type: page
     {{< figure link="/Van2022/Van2022_2.jpg" caption="Gas Town Steam Clock" >}}
     {{< figure link="/Van2022/Van2022_32.jpg" caption="Vancouver Downtown Beach" >}}
     {{< figure link="/Van2022/Van2022_1.jpg" caption="Vancouver Downtown" >}}
-
 {{< /gallery >}}
