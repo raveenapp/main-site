@@ -7,8 +7,8 @@ type: "page"
 
 These are some of my favourite pictures from over the years. I seperated trips in a different pages:
 
-- [Peru - May 2022]({{< ref "gallery/perugallery">}})
 - [Vancouver - November 2022]({{< ref "gallery/vancitygallery">}})
+- [Peru - May 2022]({{< ref "gallery/perugallery">}})
 
 {{< load-photoswipe >}}
 
