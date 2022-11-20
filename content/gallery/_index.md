@@ -8,10 +8,16 @@ type: "page"
 These are some of my favourite pictures from over the years. I seperated trips in a different pages:
 
 - [Peru - May 2022]({{< ref "gallery/perugallery">}})
+- [Vancouver - November 2022]({{< ref "gallery/vancitygallery">}})
 
 {{< load-photoswipe >}}
 
 {{< gallery >}}
+    {{< figure link="/album/2022 - 13.JPG" caption="November 2022 - Looking over the mountain" >}}
+    {{< figure link="/album/2022 - 12.JPG" caption="November 2022 - Jacob and I at the Panorama Trail sign" >}}   
+    {{< figure link="/album/2022 - 11.JPG" caption="November 2022 - In Squamish" >}}
+    {{< figure link="/album/2022 - 10.JPG" caption="November 2022 - At Science World" >}}
+    {{< figure link="/album/2022 - 9.JPG" caption="November 2022 - At the Nitobe Garden in UBC" >}}
     {{< figure link="/album/2022 - 8.JPG" caption="August 2022 - Morning coffee during a weekend away" >}}
     {{< figure link="/album/2022 - 7.jpg" caption="June 2022 - Looking at Salkantay Mountain" >}}  
     {{< figure link="/album/2022 - 6.jpg" caption="June 2022 - At Lake Humantay" >}}  

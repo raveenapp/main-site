@@ -15,3 +15,12 @@ This website is a mixture of a portoflio and a blog of sorts. I'm not a big fan 
 Check out my [Personal Library]({{< ref "about/library">}}) of what I've watched and read.
 
 Here is an archive of the [Tech I Use]({{< ref "about/tech">}}).
+
+## Travel
+Here are the places I've travelled:
+- Vancouver, BC, Canada (November 2022)
+- Peru (May 2022)
+- Boston, USA (August 2019)
+- California, USA (May 2019)
+- Florida, USA (May 2018)
+
