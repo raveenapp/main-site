@@ -1,34 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gallery on Welcome!</title>
+    <title>Galleries on Welcome!</title>
     <link>https://www.raveen.ca/gallery/</link>
-    <description>Recent content in Gallery on Welcome!</description>
+    <description>Recent content in Galleries on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Oct 2022 20:24:03 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 11:38:04 -0500</lastBuildDate><atom:link href="https://www.raveen.ca/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vancouver - November 2022</title>
-      <link>https://www.raveen.ca/gallery/vancitygallery/</link>
+      <link>https://www.raveen.ca/gallery/vangallery/</link>
       <pubDate>Sun, 20 Nov 2022 11:38:04 -0500</pubDate>
       
-      <guid>https://www.raveen.ca/gallery/vancitygallery/</guid>
-      <description>In Squamish - 2
-In Squamish - 1
-At Shannon Falls - 2
-At Shannon Falls - 1
-Science World
-Foggy Pier need Science World
-On the Velodrome Trail
-The steps of the Velodrome Trail
-On Burnaby Mountain
-Grouse Mountain - 3
-Grouse Mountain - 2
-Grouse Mountain - 1
-Downtown at Sundown
-Granville Island
-The Raven and the First Men by Bill Reid at the MOA
-Nitobe Memorial Garden - 3</description>
+      <guid>https://www.raveen.ca/gallery/vangallery/</guid>
+      <description> </description>
     </item>
     
     <item>
@@ -37,24 +22,17 @@ Nitobe Memorial Garden - 3</description>
       <pubDate>Thu, 20 Oct 2022 00:23:26 -0400</pubDate>
       
       <guid>https://www.raveen.ca/gallery/perugallery/</guid>
-      <description>Salkantay Trek - 17
-Salkantay Trek - 16
-Salkantay Trek - 15
-Salkantay Trek - 14
-Salkantay Trek - 13
-Salkantay Trek - 12
-Salkantay Trek - 11
-Salkantay Trek - 10
-Salkantay Trek - 9
-Salkantay Trek - 8
-Salkantay Trek - 7
-Salkantay Trek - 6
-Salkantay Trek - 5
-Salkantay Trek - 4
-Salkantay Trek - 3
-Salkantay Trek - 2
-Salkantay Trek - 1
-Cusco - 4</description>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://www.raveen.ca/gallery/index/</link>
+      <pubDate>Sun, 16 Oct 2022 20:24:03 -0400</pubDate>
+      
+      <guid>https://www.raveen.ca/gallery/index/</guid>
+      <description>These are some of my favourite pictures from over the years. I seperated trips in a different pages:
+Vancouver - November 2022 Peru - May 2022 </description>
     </item>
     
   </channel>

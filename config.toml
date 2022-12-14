@@ -4,7 +4,7 @@ languageCode = "en"
 
 title = "Welcome!"
 
-theme = "gokarna"
+theme = ["gokarna", "hugo-shortcode-gallery"]
 
 # Automatically generate robots.txt
 enableRobotsTXT = true
@@ -33,7 +33,7 @@ enableRobotsTXT = true
   [[menu.main]]
     # Unique identifier for a menu item
     identifier = "gallery"
-    url = "/gallery/"
+    url = "/gallery/index/"
     name = "Gallery"
     weight = 4
 
@@ -77,3 +77,4 @@ enableRobotsTXT = true
 
   # Footer text
   footer = ""
+
