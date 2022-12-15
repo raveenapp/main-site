@@ -21,8 +21,12 @@ This is a personal collection of things I've watched and read since I started tr
 - Ozark
 - Ousama Ranking
 - Vinland Saga Season 1 
-- Monster (NW)
+- Monster
 - Chainsaw Man (NW)
+- Blue Lock (NW)
+- My Hero Academia Season 6 (NW)
+- Mob Psycho III (NW)
+
 ## Movies
 - My Hero Academia: World Hero's Mission
 - Jujistu Kaison: Movie 0
@@ -37,17 +41,18 @@ This is a personal collection of things I've watched and read since I started tr
 - Goodbye, Eri
 - Fire Punch
 - Vagabond
+- The Acid Room
 
 # 2021
 ## TV Shows
-- MHA Season 5
+- My Hero Academia Season 5
 - Invincible
 - JJK
 - The Boys
 - OPM Season 2
 - Violet Evergarden
 - Neon Genesis Evangelion
-- Attack on Titan S4
+- Attack on Titan Season 4
 - Mob Psycho Season 1 and Season 2
 - Squid Games Season 1
 

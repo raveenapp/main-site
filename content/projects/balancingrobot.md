@@ -8,6 +8,8 @@ Completed: July 2021
 
 {{< vimeo 761300153 >}}
 
+{{< figure src="/projects/balancingrobot.png" alt="CAD of self-balancing robot" >}}
+
 This was my first personal project. During the summer, I decided I wanted to try making a self-balancing robot. I thought it would be a good introductory project to apply what I learned from my control systems course from the previous school term as well as learn a little more about arduinos and using motors. 
 
 The chassis was made using 3D printed pieces that were attached together with thermal set inserts and fasteners. The arduino, accelerometer, motor driver, motors and battery case were attached to the chassis using M3 fasteners, washers and nuts.

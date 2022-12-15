@@ -4,6 +4,7 @@ date: 2022-10-15T20:28:33-04:00
 draft: false
 type: "page"
 ---
+{{< figure src="/home/about.jpg" alt="Picture of me" width="50%">}}
 
  My name is Raveen Appuhamy. I graduated from Mechanical Engineering & Management at McMaster University. I will be returning to school to begin my Masters in Applied Science in Mechanical Engineering in January.
 

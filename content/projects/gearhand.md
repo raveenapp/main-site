@@ -6,7 +6,7 @@ type: "page"
 ---
 Completed: April 2017
 
-![Walking Robot](/projects/Hand.png 'Walking Robot')
+{{< figure src="/projects/hand.png" alt="CAD of hand gear train" >}}
 
 This was my first year group design project. The goal of the project was to design a gear train that would move two fingers open and close. We were constrained to a given area and we were also given a specific gear ratio that our train had to be.
 

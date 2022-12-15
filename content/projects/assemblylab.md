@@ -7,9 +7,9 @@ type: "page"
 
 Completed: August 2021
 
-![Set of Labs](/projects/Lab1Bulk.png 'Set of Labs')
+{{< figure src="/projects/labset.png" alt="The Set of Labs Lined Up" >}}
 
-![Lab Side View](/projects/LabSideView.png 'Lab Side View')
+{{< figure src="/projects/labsideview.png" alt="The Side of a Lab" >}}
 
 This project was completed while working as an Educational Assistant for the Mechanical Engineering Department at McMaster. The purpose of this lab was to teach students about design techniques when 3D printing and laser cutting. I was tasked with designing a car which utilized different kinds of parts or fasteners. Some parts were purposefully designed to be combursome to highlight the importance of design for assembly. The students then would assemble the kit and comment on what designed components worked well and didn't work well. 
 
