@@ -7,7 +7,7 @@ type: "page"
 
 Completed: April 2020
 
-{{< figure src="/projects/dropperseat.png" alt="The Set of Labs Lined Up" >}}
+{{< figure src="/projects/dropperseat.png" alt="CAD of dropper seat" >}}
 
 This project was for my third year, in the MECHENG 3E05 design course. The goal of the project was the design a product. The groups were given free reign on what to design, but an important aspect of the project was to make sure the design was justified using engineering calculations. The project was evaluated based on how well the calculations account for issues like buckling and bolt calculations.
 

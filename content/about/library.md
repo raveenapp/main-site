@@ -55,6 +55,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Attack on Titan Season 4
 - Mob Psycho Season 1 and Season 2
 - Squid Games Season 1
+- Tengen Toppa Gurren Lagann
 
 ## Movies
 - Weathering with You

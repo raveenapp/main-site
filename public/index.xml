@@ -6,7 +6,29 @@
     <description>Recent content on Welcome!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Nov 2022 23:33:22 -0500</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Dec 2022 09:31:46 -0500</lastBuildDate><atom:link href="https://www.raveen.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Scanning Turbine Blade</title>
+      <link>https://www.raveen.ca/projects/3dscanningtrophy/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:46 -0500</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/3dscanningtrophy/</guid>
+      <description>Completed: December 2022
+While working with the Mechanical Undergraduate Laboratory, two of my tasks was to develop a workflow for reverse engineering objects using 3d scanning and also to create a series of trophies using turbine blade, as seen below:
+A test of the trophy was made by clamping a blade to a plate on the mill. This was inefficient for many reasons.
+The blades have a irregular shape so its hard to mount to using clamps Everytime a new blade would be processed, the references on the mill would have to be determined again.</description>
+    </item>
+    
+    <item>
+      <title>TA Allocation Optimization Script</title>
+      <link>https://www.raveen.ca/projects/taoptimization/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:25 -0500</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/taoptimization/</guid>
+      <description>Completed: November 2022
+The Mechanical Engineering department allocates graduate students as teaching assistants for their undergraduate courses. There are over 100 graduate students that could TA around 50 courses, with each course requiring a different number of TAs. Graduate students can have preferences for their courses and instructors have preferences for graduate students. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task.</description>
+    </item>
+    
     <item>
       <title>December 2022 - Update</title>
       <link>https://www.raveen.ca/posts/2022decupdate/</link>
@@ -197,7 +219,7 @@ Daily Drivers Mamoswine: Lenevo Thinkpad T470s (running Manjaro) - primary lapto
       
       <guid>https://www.raveen.ca/about/library/</guid>
       <description>This is a personal collection of things I&amp;rsquo;ve watched and read since I started tracking it.
-2022 TV Shows Tokyo Revengers Season 1 Demon Slayer Season 2 Brooklyn 99 Season 8 Attack on Titan Season 4 Given Criminal Minds Season 1-3 Mr. Robot The Boys Season 3 Stranger Things Season 4 Ozark Ousama Ranking Vinland Saga Season 1 Monster Chainsaw Man (NW) Blue Lock (NW) My Hero Academia Season 6 (NW) Mob Psycho III (NW) Movies My Hero Academia: World Hero&amp;rsquo;s Mission Jujistu Kaison: Movie 0 Pulp Fiction The Wind Rises 13 Lives Free Guy Top Gun Books Look Back Goodbye, Eri Fire Punch Vagabond The Acid Room 2021 TV Shows My Hero Academia Season 5 Invincible JJK The Boys OPM Season 2 Violet Evergarden Neon Genesis Evangelion Attack on Titan Season 4 Mob Psycho Season 1 and Season 2 Squid Games Season 1 Movies Weathering with You I want to eat your Pancreas Dune End of Evangelion Demon Slayer: Mugen Train Books Speaker of the Dead Children of the Mind A Man Called Ove Berserk Sweat and Soap </description>
+2022 TV Shows Tokyo Revengers Season 1 Demon Slayer Season 2 Brooklyn 99 Season 8 Attack on Titan Season 4 Given Criminal Minds Season 1-3 Mr. Robot The Boys Season 3 Stranger Things Season 4 Ozark Ousama Ranking Vinland Saga Season 1 Monster Chainsaw Man (NW) Blue Lock (NW) My Hero Academia Season 6 (NW) Mob Psycho III (NW) Movies My Hero Academia: World Hero&amp;rsquo;s Mission Jujistu Kaison: Movie 0 Pulp Fiction The Wind Rises 13 Lives Free Guy Top Gun Books Look Back Goodbye, Eri Fire Punch Vagabond The Acid Room 2021 TV Shows My Hero Academia Season 5 Invincible JJK The Boys OPM Season 2 Violet Evergarden Neon Genesis Evangelion Attack on Titan Season 4 Mob Psycho Season 1 and Season 2 Squid Games Season 1 Tengen Toppa Gurren Lagann Movies Weathering with You I want to eat your Pancreas Dune End of Evangelion Demon Slayer: Mugen Train Books Speaker of the Dead Children of the Mind A Man Called Ove Berserk Sweat and Soap </description>
     </item>
     
   </channel>

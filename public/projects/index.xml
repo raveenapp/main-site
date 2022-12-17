@@ -8,6 +8,28 @@
     <language>en</language>
     <lastBuildDate>Sat, 15 Oct 2022 22:30:17 -0400</lastBuildDate><atom:link href="https://www.raveen.ca/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>3D Scanning Turbine Blade</title>
+      <link>https://www.raveen.ca/projects/3dscanningtrophy/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:46 -0500</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/3dscanningtrophy/</guid>
+      <description>Completed: December 2022
+While working with the Mechanical Undergraduate Laboratory, two of my tasks was to develop a workflow for reverse engineering objects using 3d scanning and also to create a series of trophies using turbine blade, as seen below:
+A test of the trophy was made by clamping a blade to a plate on the mill. This was inefficient for many reasons.
+The blades have a irregular shape so its hard to mount to using clamps Everytime a new blade would be processed, the references on the mill would have to be determined again.</description>
+    </item>
+    
+    <item>
+      <title>TA Allocation Optimization Script</title>
+      <link>https://www.raveen.ca/projects/taoptimization/</link>
+      <pubDate>Thu, 15 Dec 2022 09:31:25 -0500</pubDate>
+      
+      <guid>https://www.raveen.ca/projects/taoptimization/</guid>
+      <description>Completed: November 2022
+The Mechanical Engineering department allocates graduate students as teaching assistants for their undergraduate courses. There are over 100 graduate students that could TA around 50 courses, with each course requiring a different number of TAs. Graduate students can have preferences for their courses and instructors have preferences for graduate students. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task.</description>
+    </item>
+    
+    <item>
       <title>Re-learning Python</title>
       <link>https://www.raveen.ca/projects/python/</link>
       <pubDate>Tue, 01 Nov 2022 10:24:04 -0400</pubDate>

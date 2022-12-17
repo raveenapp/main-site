@@ -8,9 +8,10 @@ type: "page"
 Here are a list of my on-going projects:
  - [Re-learning Python]({{< ref "projects/python.md">}})
  - [This Website]({{< ref "projects/website.md">}})
- - [Mechancial Pokeball]({{< ref "projects/pokeball.md">}})
 
 This is a list of my completed projects:
+ - [3D Scanning Trophies]({{< ref "projects/3dscanningtrophy.md">}})
+ - [TA Optimization Script]({{< ref "projects/taoptimization.md">}})
  - [XYZ Gripper Robot]({{< ref "projects/gripper.md">}})
  - [Assembly Lab]({{< ref "projects/assemblylab.md">}})
  - [Self Balancing Robot]({{< ref "projects/balancingrobot.md">}})

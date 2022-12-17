@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style>
+        :root {
+            --accent-color: #FF4D4D;
+        }
+    </style>
+
+    
+    
+    
+    
+    
+    
+
+    
+    <title>TA Allocation Optimization Script</title>
+    <meta name="description" content="My little piece of the internet">
+    <meta name="keywords" content='blog, gokarna, hugo'>
+
+    <meta property="og:url" content="https://www.raveen.ca/projects/taoptimization/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="TA Allocation Optimization Script">
+    <meta property="og:description" content="My little piece of the internet">
+    <meta property="og:image" content="/home/avatar.png">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="TA Allocation Optimization Script">
+    <meta name="twitter:description" content="My little piece of the internet">
+    <meta property="twitter:domain" content="https://www.raveen.ca/projects/taoptimization/">
+    <meta property="twitter:url" content="https://www.raveen.ca/projects/taoptimization/">
+    <meta name="twitter:image" content="/home/avatar.png">
+
+    
+    <link rel="canonical" href="https://www.raveen.ca/projects/taoptimization/" />
+
+    <link rel="stylesheet" type="text/css" href="https://www.raveen.ca/css/normalize.min.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" type="text/css" href="https://www.raveen.ca/css/main.css">
+    <link disabled id="dark-theme" rel="stylesheet" href="https://www.raveen.ca/css/dark.css">
+
+    <script src="https://www.raveen.ca/js/svg-injector.min.js"></script>
+    <script src="https://www.raveen.ca/js/feather-icons.min.js"></script>
+    <script src="https://www.raveen.ca/js/main.js"></script>
+
+    
+    
+</head>
+<body>
+        <script type="text/javascript">
+            
+            setThemeByUserPref();
+        </script><header class="header">
+    <nav class="header-nav">
+
+        
+        <div class="avatar">
+            <a href="https://www.raveen.ca">
+                <img src="https://www.raveen.ca/home/avatar.png" alt="avatar" />
+            </a>
+        </div>
+        
+
+        <div class="nav-title">
+            <a class="nav-brand" href="https://www.raveen.ca">Welcome!</a>
+        </div>
+
+        <div class="nav-links">
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/about/"> About </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/resume/"> Resume </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/projects/"> Projects </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/gallery/index/"> Gallery </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/posts/"> Posts </a>
+            </div>
+            
+            <div class="nav-link">
+                <a href="https://www.raveen.ca/tags/"> Tags </a>
+            </div>
+            
+
+            <span class="nav-icons-divider"></span>
+            <div class="nav-link dark-theme-toggle">
+                <span id="dark-theme-toggle-screen-reader-target" class="sr-only"></span>
+                <a>
+                    <span id="theme-toggle-icon" data-feather="moon"></span>
+                </a>
+            </div>
+
+            <div class="nav-link" id="hamburger-menu-toggle">
+                <span id="hamburger-menu-toggle-screen-reader-target" class="sr-only">menu</span>
+                <a>
+                    <span data-feather="menu"></span>
+                </a>
+            </div>
+
+            
+            <ul class="nav-hamburger-list visibility-hidden">
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/about/"> About </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/resume/"> Resume </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/projects/"> Projects </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/gallery/index/"> Gallery </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/posts/"> Posts </a>
+                </li>
+                
+                <li class="nav-item">
+                    <a href="https://www.raveen.ca/tags/"> Tags </a>
+                </li>
+                
+                <li class="nav-item dark-theme-toggle">
+                    <span id="dark-theme-toggle-screen-reader-target" class="sr-only">theme</span>
+                    <a>
+                        <span id="theme-toggle-icon" data-feather="moon"></span>
+                    </a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</header>
+<main id="content">
+    
+
+    <div class="post container">
+
+    <div class="post-header-section">
+        <h1>TA Allocation Optimization Script</h1>
+    </div>
+
+    <div class="post-content">
+        <p>
+            <p>Completed: November 2022</p>
+<p>The Mechanical Engineering department allocates graduate students as teaching assistants for their undergraduate courses. There are over 100 graduate students that could TA around 50 courses, with each course requiring a different number of TAs. Graduate students can have preferences for their courses and instructors have preferences for graduate students. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task. I was tasked with developing an optimization script to allocate the TAs into their courses instead.</p>
+<p>I am familiar with optimization problems through school, but applying to this scale was new challenge for me. First, I met with a professor who has a similar optimization script for a different department. He outlined for me the types of constraints to use to set up the optimization script. The professor is in the different department which has access to an optimization software that the Mechanical Engineering department does not, so I would have to find a different software to use the same structure with.</p>
+<p>I started by looking into Matlab, I know it is a powerful scripting language and it has an optimization toolbox that I could use. First, I read through the documentation and praticed with the examples they had to understand the toolbox. Then, I broke the optimization script down into 3 parts:</p>
+<ol>
+<li>processing the survey results</li>
+<li>the optimizaiton script</li>
+<li>processing the output into meaningful visuals</li>
+</ol>
+<p>I started with 2. as it would take the most time. Using the references as the input from the professor, I worked through importing the data, setting up the constraints, and objective variable. A major obstacle I had to deal with was the fact that the optimization toolbox in matlab doesn&rsquo;t play well with 3D variables. Since the TA&rsquo;s could be allocated into full TA slot or half TA slot, the output variable has a third dimension. I was able to work around the limitation by breaking the 3D dimensional issues into smaller pieces that could be sorted by the toolbox.</p>
+<p>Once I had the optimization script working, I worked on part 1. The survey results with the student and instructor preferences had to be processed into a form that could be used by the script, as the survey should stay the same as every year, the process could be automated. This involved importing the survey data into matlab, processing them into seperate arrays and outputting them into a spreadsheet.</p>
+<p>Finally, part 3 was organizing the results from the optimization script into an output that could be used by the administators. As the solution to the optimization script is an array of 1s and 0s, that had to be converted into the TA&rsquo;s name and the equivalent course they are in.</p>
+<p>This was an interesting coding project to throw myself into. There are definitely areas that could be improved where I probably used bad habits or coding structures but that coming with learning a new skill.</p>
+
+        </p>
+    </div>
+</div>
+
+
+
+
+        </main><footer class="footer">
+    <span>&copy; 2022 </span>
+    <span>
+        Made with &#10084;&#65039; using <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
+</footer>
+</body>
+</html>
