@@ -1,7 +1,9 @@
 ---
 title: "Master's Log - 0"
 date: 2022-12-17T16:43:23-05:00
-draft: true
+draft: false
+type: post
+tags: ['masters-log']
 ---
 
 While on the bus a month ago, I thought it would be cool to keep a written blog of my experiences while completing my masters. This would be an on-going "series" of posts that would share what I'm working on, any tools I'm using, my workflow, organization system or anything of the sort. I'd like to make a post every few weeks (but let's see if that happens).
