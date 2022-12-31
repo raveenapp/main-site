@@ -2,7 +2,7 @@
 title: "This Website"
 date: 2022-10-16T21:00:27-04:00
 draft: false
-type: "page"
+type: page
 ---
 
 I will be using this page a working post for my website, I'll mention updates and future plans with the website here.

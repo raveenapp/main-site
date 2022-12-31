@@ -2,7 +2,7 @@
 title: "Projects"
 date: 2022-10-15T22:30:17-04:00
 draft: false
-type: "page"
+type: page
 ---
 
 Here are a list of my on-going projects:
@@ -10,7 +10,7 @@ Here are a list of my on-going projects:
  - [This Website]({{< ref "projects/website.md">}})
 
 This is a list of my completed projects:
- - [3D Scanning Trophies]({{< ref "projects/3dscanningtrophy.md">}})
+ - [3D Scanning Trophy Blades]({{< ref "projects/3dscanningtrophy.md">}})
  - [TA Optimization Script]({{< ref "projects/taoptimization.md">}})
  - [XYZ Gripper Robot]({{< ref "projects/gripper.md">}})
  - [Assembly Lab]({{< ref "projects/assemblylab.md">}})

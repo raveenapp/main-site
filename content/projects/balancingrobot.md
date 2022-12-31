@@ -2,7 +2,7 @@
 title: "Self Balancing Robot"
 date: 2022-10-16T21:00:59-04:00
 draft: false
-type: "page"
+type: page
 ---
 Completed: July 2021
 

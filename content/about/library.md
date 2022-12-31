@@ -2,10 +2,18 @@
 title: "Personal Library"
 date: 2022-10-15T20:48:10-04:00
 draft: false
-type: "page"
+type: page
 ---
 
 This is a personal collection of things I've watched and read since I started tracking it.
+
+# 2023
+## TV Shows
+- Blue Lock (NW)
+- My Hero Academia Season 6 (NW)
+
+## Books
+- Ender's Shadow (NR)
 
 # 2022
 ## TV Shows
@@ -22,10 +30,10 @@ This is a personal collection of things I've watched and read since I started tr
 - Ousama Ranking
 - Vinland Saga Season 1 
 - Monster
-- Chainsaw Man (NW)
-- Blue Lock (NW)
-- My Hero Academia Season 6 (NW)
-- Mob Psycho III (NW)
+- Chainsaw Man
+- Blue Lock (Started)
+- My Hero Academia Season 6 (Started)
+- Mob Psycho III
 
 ## Movies
 - My Hero Academia: World Hero's Mission
@@ -42,6 +50,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Fire Punch
 - Vagabond
 - The Acid Room
+- Fahrenheit 451
 
 # 2021
 ## TV Shows

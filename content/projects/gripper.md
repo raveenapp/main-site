@@ -2,7 +2,7 @@
 title: "XYZ Gripper Robot"
 date: 2022-10-17T23:57:37-04:00
 draft: false
-type: "page"
+type: page
 ---
 Completed: April 2022
 

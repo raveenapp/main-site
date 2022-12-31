@@ -2,7 +2,7 @@
 title: "Dropper Seat Post Design Project"
 date: 2022-10-16T21:01:06-04:00
 draft: false
-type: "page"
+type: page
 ---
 
 Completed: April 2020

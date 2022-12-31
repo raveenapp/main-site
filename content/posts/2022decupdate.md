@@ -3,6 +3,7 @@ title: "December 2022 - Update"
 date: 2022-11-30T23:33:22-05:00
 draft: false
 type: post
+tags: ['life','updates']
 ---
 
 November came and went! Overall, it was a great month. Work went fine, I got to travel for a week and slowly chipping away at my goals. Just another month left in the year. Let's see how this goes!
