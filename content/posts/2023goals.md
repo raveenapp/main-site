@@ -6,11 +6,11 @@ type: post
 tags: ['life', 'update']
 ---
 ## fitness
-- go to the gym for 200 days this year - I don't have a goal with weight or strength, I just want to keep consistency
+- go to the gym for 200 days this year - I don't have a goal with weight or strength, I just want to keep consistent
 - Go on a multi day hike - I always try to do one a year 
 ## art
 - read 6 novels - I think 1 book every 2 months is doable
-- read 3 manga - this is shift my prespective. I always considered reading manga unproductive even though I enjoy it, so I will make it a goal to read them
+- read 3 manga - this is to shift my prespective. I always considered reading manga unproductive even though I enjoy it, so I will make it a goal to read them
 ## skills
 - Regain PPL currency - I was going to start this in 2022 but didn't get to it
 - Functional python knowledge - I want to be able to think of a program and have the understanding to create it
