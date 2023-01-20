@@ -85,6 +85,7 @@ This is a personal collection of things I've watched and read since I started tr
 
 ## Books
 - Speaker of the Dead
+- Xenocide
 - Children of the Mind
 - A Man Called Ove
 - Berserk 
