@@ -10,6 +10,7 @@ Here are a list of my on-going projects:
  - [This Website]({{< ref "projects/website.md">}})
 
 This is a list of my completed projects:
+ - [NAS Server]({{< ref "projects/server.md">}})
  - [3D Scanning Trophy Blades]({{< ref "projects/3dscanningtrophy.md">}})
  - [TA Optimization Script]({{< ref "projects/taoptimization.md">}})
  - [XYZ Gripper Robot]({{< ref "projects/gripper.md">}})
