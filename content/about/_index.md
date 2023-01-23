@@ -10,7 +10,7 @@ type: "page"
 
 I am also a licensed glider pilot and been a glider instructor since 2016. I fly with the Air Cadet Gliding program.
 
-This website is a mixture of a portoflio and a blog of sorts. I'm not a big fan of posting on social media so it's a place to share my thoughts on my own platform! 
+This website is a mixture of a portflio and a blog of sorts. I'm not a big fan of posting on social media so it's a place to share my thoughts on my own platform! 
 
 ## Get To Know More About Me
 Here is my [Bucket List]({{< ref "about/bucketlist">}}).
