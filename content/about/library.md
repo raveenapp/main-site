@@ -10,6 +10,7 @@ This is a personal collection of things I've watched and read since I started tr
 # 2023
 ## TV Shows
 - SpyxFamily Season 1
+- Bocchi the Rock (NW)
 - Blue Lock (NW)
 - My Hero Academia Season 6 (NW)
 - Buddy Daddy (NW)
@@ -18,12 +19,11 @@ This is a personal collection of things I've watched and read since I started tr
 - Vinland Saga (NW)
 - NieR:Automata (NW)
 - Yu Yu Hakusho (NW)
-- Kim Possible (NW)
-
 
 ## Books
 - Ender's Shadow
-- Shadows of the Hegemon (NR)
+- Shadows of the Hegemon
+- Shadow of the Giant (NR)
 
 # 2022
 ## TV Shows
