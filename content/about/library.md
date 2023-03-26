@@ -9,28 +9,30 @@ This is a personal collection of things I've watched and read since I started tr
 
 # 2023
 ## TV Shows
-- SpyxFamily Season 1
+- SpyxFamily
 - Bocchi the Rock
-
-- My Senpai is Annoying (NW)
-- Blue Lock (NW)
-- My Hero Academia Season 6 (NW)
+- My Senpai is Annoying
+- Attack on Titan Season 4 Part 3
+- Blue Lock
+- My Hero Academia Season 6
 - Buddy Daddy (NW)
 - Revenger (NW)
 - Tokyo Revengers Season 2 (NW)
 - Vinland Saga (NW)
-- NieR:Automata (NW)
-- Attack on Titan Season 4 Part 3 (NW)
-- Yu Yu Hakusho (NW)
 
 ## Books
 - Ender's Shadow
 - Shadows of the Hegemon
 - Shadow Puppets
-- Shadow of the Giant (NR)
+- Shadow of the Giant
+- Tokyo Ghoul
+- Shadows in Flight (NR)
 
 ## Movies
+- Bubbles
+- Hitch
 - Demon Slayer World Tour
+- Gonjiam: Haunted Asylum
 
 # 2022
 ## TV Shows
