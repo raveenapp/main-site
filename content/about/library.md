@@ -26,7 +26,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Shadow Puppets
 - Shadow of the Giant
 - Tokyo Ghoul
-- Shadows in Flight (NR)
+- Shadows in Flight
+- Ender In Exile (NR)
 
 ## Movies
 - Bubbles
