@@ -19,7 +19,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Revenger
 - Tokyo Revengers Season 2
 - Vinland Saga (NW)
-- Hell's Paradise
+- Hell's Paradise (NW)
 ## Books
 - Ender's Shadow
 - Shadows of the Hegemon
@@ -28,12 +28,12 @@ This is a personal collection of things I've watched and read since I started tr
 - Tokyo Ghoul
 - Shadows in Flight
 - Ender In Exile (NR)
-
 ## Movies
 - Bubbles
 - Hitch
 - Demon Slayer World Tour
 - Gonjiam: Haunted Asylum
+- Your Name.
 
 # 2022
 ## TV Shows
