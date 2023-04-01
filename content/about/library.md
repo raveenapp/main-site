@@ -9,17 +9,17 @@ This is a personal collection of things I've watched and read since I started tr
 
 # 2023
 ## TV Shows
-- SpyxFamily
+- SpyxFamily Season 2
 - Bocchi the Rock
 - My Senpai is Annoying
 - Attack on Titan Season 4 Part 3
 - Blue Lock
 - My Hero Academia Season 6
-- Buddy Daddy (NW)
-- Revenger (NW)
-- Tokyo Revengers Season 2 (NW)
+- Buddy Daddy
+- Revenger
+- Tokyo Revengers Season 2
 - Vinland Saga (NW)
-
+- Hell's Paradise
 ## Books
 - Ender's Shadow
 - Shadows of the Hegemon
@@ -54,6 +54,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Blue Lock (Started)
 - My Hero Academia Season 6 (Started)
 - Mob Psycho III
+- SpyxFamily Season 1
 
 ## Movies
 - My Hero Academia: World Hero's Mission
