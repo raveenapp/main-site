@@ -7,7 +7,7 @@ type: page
 
 Completed: November 2022
 
-The Mechanical Engineering department allocates graduate students as teaching assistants for their undergraduate courses. There are over 100 graduate students that could TA around 50 courses, with each course requiring a different number of TAs. Graduate students can have preferences for their courses and instructors have preferences for graduate students. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task. I was tasked with developing an optimization script to allocate the TAs to their courses instead.
+My schools graduate program administration allocates graduate students as teaching assistants for their undergraduate courses. There are over 100 graduate students that could TA around 50 courses, with each course requiring a different number of TAs. Graduate students can have preferences for their courses and instructors have preferences for graduate students. Allocating the graduate students to courses while taking all of this into account would be a cumbersome and manual task. I was tasked with developing an optimization script to allocate the TAs to their courses instead.
 
 I am familiar with optimization problems through school, but applying to this scale was a new challenge for me. First, I met with a professor who has a similar optimization script for a different department. He outlined for me the types of constraints to use to set up the optimization script. The professor is in a different department which has access to an optimization software that the Mechanical Engineering department does not, so I would have to find a different software to use the same structure with. 
 

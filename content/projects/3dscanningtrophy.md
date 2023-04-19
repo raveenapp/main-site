@@ -7,7 +7,7 @@ type: page
 
 Completed: December 2022
 
-While working with the Mechanical Undergraduate Laboratory, two of my tasks was to develop a workflow for reverse engineering objects using 3d scanning and also to create a series of trophies using turbine blade, as seen below:
+While working at the Mechanical Undergraduate Laboratory at my university, two of my tasks was to develop a workflow for reverse engineering objects using 3d scanning and also to create a series of trophies using turbine blade, as seen below:
 
 {{< figure src="/projects/3dscanning/blade.jpg" alt="One of the turbine blades" >}}
 

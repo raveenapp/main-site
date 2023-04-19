@@ -11,7 +11,7 @@ Completed: August 2021
 
 {{< figure src="/projects/labsideview.png" alt="The Side of a Lab" >}}
 
-This project was completed while working as an Educational Assistant for the Mechanical Engineering Department at McMaster. The purpose of this lab was to teach students about design techniques when 3D printing and laser cutting. I was tasked with designing a car which utilized different kinds of parts or fasteners. Some parts were purposefully designed to be combursome to highlight the importance of design for assembly. The students then would assemble the kit and comment on what designed components worked well and didn't work well. 
+This project was completed while working as an Educational Assistant for a professor. The purpose of this lab was to teach students about design techniques when 3D printing and laser cutting. I was tasked with designing a car which utilized different kinds of parts or fasteners. Some parts were purposefully designed to be combursome to highlight the importance of design for assembly. The students then would assemble the kit and comment on what designed components worked well and didn't work well. 
 
 Some of the design techniques considered:
 - The importance of 3D printing orientation (considering layer lines)

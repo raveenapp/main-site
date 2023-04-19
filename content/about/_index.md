@@ -6,9 +6,9 @@ type: "page"
 ---
 {{< figure src="/home/about.jpg" alt="Picture of me" width="50%">}}
 
- My name is Raveen Appuhamy. I've graduated in Mechanical Engineering and I am currently working on my Masters!
- 
-I am also a licensed glider pilot and been a glider instructor since 2016. I fly with the Air Cadet Gliding program.
+My name is Raveen. I studied mechanical engineering in undergrad and I am currently working on my masters!
+
+I am also a licensed glider pilot and been a glider instructor since 2016.
 
 This website is a mixture of a portflio and a blog of sorts. I'm not a big fan of posting on social media so it's a place to share my thoughts on my own platform! 
 
