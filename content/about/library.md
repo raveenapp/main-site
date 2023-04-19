@@ -20,6 +20,13 @@ This is a personal collection of things I've watched and read since I started tr
 - Tokyo Revengers Season 2
 - Vinland Saga (NW)
 - Hell's Paradise (NW)
+- Oshi No Ko (NW)
+- Demon Slayer: Swordsmith Village Arc (NW)
+- Mashle (NW)
+- My Home Hero (NW)
+- Ranking of Kings: The Treasure Chest of Courage (NW)
+- Heavanly Delusion (NW)
+- Wotakoi: Love is Hard for Otaku (NW)
 ## Books
 - Ender's Shadow
 - Shadows of the Hegemon
@@ -27,7 +34,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Shadow of the Giant
 - Tokyo Ghoul
 - Shadows in Flight
-- Ender In Exile (NR)
+- Ender In Exile
+- The Last Shadow
 ## Movies
 - Bubbles
 - Hitch
@@ -38,7 +46,7 @@ This is a personal collection of things I've watched and read since I started tr
 # 2022
 ## TV Shows
 - Tokyo Revengers Season 1
-- Demon Slayer Season 2
+- Demon Slayer:  Entertainment District Arc
 - Brooklyn 99 Season 8
 - Attack on Titan Season 4
 - Given
