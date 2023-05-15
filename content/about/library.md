@@ -18,6 +18,7 @@ This is a personal collection of things I've watched and read since I started tr
 - Buddy Daddy
 - Revenger
 - Tokyo Revengers Season 2
+- Wotakoi: Love is Hard for Otaku
 - Vinland Saga (NW)
 - Hell's Paradise (NW)
 - Oshi No Ko (NW)
@@ -25,8 +26,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Mashle (NW)
 - My Home Hero (NW)
 - Ranking of Kings: The Treasure Chest of Courage (NW)
-- Heavanly Delusion (NW)
-- Wotakoi: Love is Hard for Otaku (NW)
+- Heavenly Delusion (NW)
+
 ## Books
 - Ender's Shadow
 - Shadows of the Hegemon
@@ -36,12 +37,16 @@ This is a personal collection of things I've watched and read since I started tr
 - Shadows in Flight
 - Ender In Exile
 - The Last Shadow
+- Tokyo Ghoul:re
+
 ## Movies
 - Bubbles
 - Hitch
 - Demon Slayer World Tour
 - Gonjiam: Haunted Asylum
 - Your Name.
+- Tengen Toppa Gurren Lagann Movie 1: Gurren-hen
+- Tengen Toppa Gurren Lagann Movie 2: Lagann-hen
 
 # 2022
 ## TV Shows
