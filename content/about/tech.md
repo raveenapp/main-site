@@ -5,11 +5,14 @@ draft: false
 type: page
 ---
 
-This is the tech I am using, I'll probably add more detail after time. And yes, I did name them all after my favourite Pokemon.
+This is the tech I am using, I'll probably add more detail after time.
 
 ## Daily Drivers
-- Mamoswine: Lenevo Thinkpad T470s (running Manjaro) - primary laptop
-- Rotom: iPhone 13 Pro - phone
-- Phantump: Airpod (Gen 2) - earbuds
-- Wooper: iPad Air (Gen 2) - tablet
+- Laptop: Lenevo Thinkpad T470s
+- Phone: Apple iPhone 13 Pro - 128 GB
+- Earbuds: Apple Airpod (Gen 2)
+- Headphones: Sony WH-1000XM4
+- Tablet: iPad Air (Gen 2) - 64 GB
+- Ereader: Amazon Kindle Paperwhite 3
+
 

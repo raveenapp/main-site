@@ -51,7 +51,7 @@ This is a personal collection of things I've watched and read since I started tr
 # 2022
 ## TV Shows
 - Tokyo Revengers Season 1
-- Demon Slayer:  Entertainment District Arc
+- Demon Slayer: Entertainment District Arc
 - Brooklyn 99 Season 8
 - Attack on Titan Season 4
 - Given
@@ -71,7 +71,7 @@ This is a personal collection of things I've watched and read since I started tr
 
 ## Movies
 - My Hero Academia: World Hero's Mission
-- Jujistu Kaison: Movie 0
+- Jujustu Kaisen: Movie 0
 - Pulp Fiction
 - The Wind Rises
 - 13 Lives
@@ -90,9 +90,9 @@ This is a personal collection of things I've watched and read since I started tr
 ## TV Shows
 - My Hero Academia Season 5
 - Invincible
-- JJK
+- Jujutsu Kaisen
 - The Boys
-- OPM Season 2
+- One Punch Man Season 2
 - Violet Evergarden
 - Neon Genesis Evangelion
 - Attack on Titan Season 4
@@ -102,7 +102,7 @@ This is a personal collection of things I've watched and read since I started tr
 
 ## Movies
 - Weathering with You
-- I want to eat your Pancreas
+- I Want To Eat Your Pancreas
 - Dune
 - End of Evangelion
 - Demon Slayer: Mugen Train
