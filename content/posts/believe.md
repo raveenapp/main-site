@@ -1,7 +1,7 @@
 ---
 title: "Believe in the you that believes in yourself"
 date: 2023-06-05T22:03:10-04:00
-draft: true
+draft: false
 type: post
 tag: [life]
 ---
@@ -12,4 +12,4 @@ They reminded me of two series that I dearly love. Berserk and Tengen Toppa Gurr
 
 It's funny, all of this stemmed from watching Spiderman: Into the Spiderverse today. Miles taking the leap and believing in himself made me make connections to other pieces of media, connecting their messages together. 
 
-No matter how many times I fail, I must continue to believe in myself. 
+No matter how many times I fail, I must continue to believe in myself.
