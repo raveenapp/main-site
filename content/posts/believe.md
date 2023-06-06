@@ -1,7 +1,7 @@
 ---
 title: "Believe in the you that believes in yourself"
 date: 2023-06-05T22:03:10-04:00
-draft: false
+draft: true
 type: post
 tag: [life]
 ---
