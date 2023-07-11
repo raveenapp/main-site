@@ -19,14 +19,16 @@ This is a personal collection of things I've watched and read since I started tr
 - Revenger
 - Tokyo Revengers Season 2
 - Wotakoi: Love is Hard for Otaku
-- Vinland Saga (NW)
-- Hell's Paradise (NW)
-- Oshi No Ko (NW)
-- Demon Slayer: Swordsmith Village Arc (NW)
-- Mashle (NW)
-- My Home Hero (NW)
-- Ranking of Kings: The Treasure Chest of Courage (NW)
-- Heavenly Delusion (NW)
+- Vinland Saga
+- Hell's Paradise
+- Oshi No Ko
+- Demon Slayer: Swordsmith Village Arc
+- Mashle
+- My Home Hero
+- Heavenly Delusion
+- Jujutsu Kaisen 2nd Season (NW)
+- Zom 100: Bucket List of the Dead (NW)
+- My Tiny Senpai (NW)
 
 ## Books
 - Ender's Shadow
@@ -38,6 +40,8 @@ This is a personal collection of things I've watched and read since I started tr
 - Ender In Exile
 - The Last Shadow
 - Tokyo Ghoul:re
+- Kingdom (caught up - waiting for more issues)
+- This Divided Island (NR)
 
 ## Movies
 - Bubbles
@@ -47,6 +51,12 @@ This is a personal collection of things I've watched and read since I started tr
 - Your Name.
 - Tengen Toppa Gurren Lagann Movie 1: Gurren-hen
 - Tengen Toppa Gurren Lagann Movie 2: Lagann-hen
+- Spiderman: Into the Spiderverse
+- Spiderman: Across the Spiderverse x2
+
+## Games
+- Hyrule Warrior Legends - 3DS
+- Pokemon Red - GB
 
 # 2022
 ## TV Shows

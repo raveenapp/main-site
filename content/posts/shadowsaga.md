@@ -3,7 +3,7 @@ title: "Shadow Saga - A Retrospective"
 date: 2023-04-19T13:30:16-04:00
 draft: false
 type: post
-tags: ['books']
+tags: ['books','retrospectove']
 ---
 ## Background
 I had a goal to read 6 novels in 2023, and I started that goal with the book "Ender's Shadow" by Orson Scott Card. It's a parallel story to "Ender's Game", revisiting the original book from the perspective of Ender's right-hand man, Bean. After finishing that book, I couldn't put the rest of the series down and between January and April, I finished the remaining 6 books.
