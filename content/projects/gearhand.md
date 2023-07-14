@@ -1,5 +1,5 @@
 ---
-title: "Gearhand"
+title: "Gear Train Hand Design Project"
 date: 2022-10-16T21:01:20-04:00
 draft: false
 type: page
