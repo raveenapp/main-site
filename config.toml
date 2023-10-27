@@ -26,7 +26,7 @@ enableRobotsTXT = true
   [[menu.main]]
     # Unique identifier for a menu item
     identifier = "gallery"
-    url = "/gallery/index/"
+    url = "/gallery/"
     name = "Gallery"
     weight = 3
 
@@ -71,3 +71,4 @@ enableRobotsTXT = true
   # Footer text
   footer = ""
 
+timeout = 60000 # This is required for larger galleries to be build (60 sec)
